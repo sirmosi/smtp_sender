@@ -1,5 +1,5 @@
 # smtp_sender
-Send mail via smtp for a n time
+Send mail via smtp for an n time
 1. Get Sender Address
 2. Get Sender Password
 3. Get Recipient Address
